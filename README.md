@@ -1,6 +1,6 @@
 # Shopping-Cart
 
-<h1>Shopping Cart:</h1> This is shopping cart project built with react.
+This is shopping cart project built with react.
 <h1>Description:</h1> 
  From the current inventory, select an item to add. 
  To remove an item, select such item for the drop-down menu to delete. 
