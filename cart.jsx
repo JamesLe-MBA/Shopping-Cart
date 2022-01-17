@@ -1,9 +1,9 @@
 // simulate getting products from DataBase
 const products = [
-  {id:0, name: "Apples", country: "Italy", cost: 3, instock: 10, sprite:{name: "https://cdn.pixabay.com/photo/2014/02/01/17/30/apple-256268_960_720.jpg"} },
-  {id:1, name: "Oranges", country: "Spain", cost: 4, instock: 3, sprite:{name: "https://cdn.pixabay.com/photo/2016/10/07/14/11/tangerines-1721633_960_720.jpg" }},
-  {id:2, name: "Beans", country: "USA", cost: 2, instock: 5, sprite:{name: "https://cdn.pixabay.com/photo/2018/09/25/20/09/bush-beans-3702999_960_720.jpg" }},
-  {id:3, name: "Cabbage", country: "USA", cost: 1, instock: 8, sprite: {name: "https://cdn.pixabay.com/photo/2018/10/03/21/57/cabbage-3722498_960_720.jpg"} },
+  {id:0, name: "Apples", country: "Italy", cost: 3, instock: 10, sprite:{name: "https://cdn.pixabay.com/photo/2015/12/28/14/13/apple-1111412_1280.jpg"} },
+  {id:1, name: "Oranges", country: "Spain", cost: 4, instock: 3, sprite:{name: "https://media.istockphoto.com/photos/orange-picture-id185284489?b=1&k=20&m=185284489&s=170667a&w=0&h=a_fCXMop7ZX1V1yoQDYQeIwZTwIei3UjOmmRItszleY=" }},
+  {id:2, name: "Beans", country: "USA", cost: 2, instock: 5, sprite:{name: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxVrFhHszI4TTC6n-Y86KYJbP5SwzCpaODA&usqp=CAU" }},
+  {id:3, name: "Cabbage", country: "USA", cost: 1, instock: 8, sprite: {name: "https://www.gardeningknowhow.com/wp-content/uploads/2019/12/cabbages.jpg"} },
 ];
 //=========Cart=============
 const Cart = (props) => {
